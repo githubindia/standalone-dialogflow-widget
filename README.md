@@ -30,7 +30,7 @@ Update webhook endpoint in `/config.js`
 $ git clone https://github.com/pourabkarchaudhuri/conversational-widget.git
 $ cd supervised-data-tagger-dashboard
 $ npm install
-$ node webhook.js
+$ npm start
 ```
 
 ### For EC2 on AWS:
